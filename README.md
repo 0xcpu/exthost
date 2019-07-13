@@ -4,3 +4,5 @@ Everything you need to understand is in the following resources:
 - [Video](https://vimeo.com/335166152)
 
 Thanks to aionescu, pwissenlit, yarden_shafir for the research!
+
+Last time the POC was tested on Windows 10 Insider Preview Build 18932.
